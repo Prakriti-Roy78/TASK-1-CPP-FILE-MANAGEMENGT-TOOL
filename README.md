@@ -57,3 +57,4 @@ All operations are performed on a fixed file named sampleFile.txt. This file is 
 This project demonstrates my understanding of file I/O operations in C++, user input management, and basic program structuring using functions and control flow. It showcases the foundational skills necessary for building practical applications involving persistent data storage.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/e3c1628d-0688-48f5-a296-b69c307dd69f)
